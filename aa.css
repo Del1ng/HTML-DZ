@@ -1,0 +1,19 @@
+.coint {
+    font-size: 12px;
+    background-color: rgb(245, 241, 241);
+    width: 600px;
+}
+.purple {
+    color: purple;
+}
+.black {
+    color: black;
+}
+.a {
+    margin-left: 40px;
+    color: purple;
+}
+.b {
+    margin-left: 80px;
+    color: purple;
+}
